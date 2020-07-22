@@ -1,10 +1,10 @@
 {
-  "description": "<p>Musing and writings of a contemporary women, a healer in the new age.</p>",
+  "description": "<p>Musing and writings of a contemporary woman, a healer in the new age.</p>",
   "cta": "<p>Visit my <a href=\"https://o-a.netlify.app/\" title=\"o-a\">personal site</a>.</p>",
   "contact": {
     "email": "alicia.ortiz2288@gmail.com",
     "twitter_handle": "forestryio",
     "github_handle": "forestryio"
   },
-  "background_color": "#0DF0F0"
+  "background_color": "#4A90E2"
 }
